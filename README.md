@@ -8,7 +8,7 @@ Du kommer att designa en **Hälsotracker-app för att främja hälsosamma vanor*
 
 ### Steg att följa
 
-1. **Moodboard** Skapen en moodboard med bilder, färger, stil och form som ni vill använda i er app. En moodboard är ett kreativt collage av bilder, text och andra visuella element som används för att framkalla eller kommunicera en specifik stämning, stil eller koncept. De används ofta av designers, konstnärer och kreativa yrkesverksamma för att utforska idéer, dela visioner med kunder eller kollegor och som en visuell referens under ett projekt.
+1. **Moodboard** Skapa en moodboard med bilder, färger, stil och form som ni vill använda i er app. En moodboard är ett kreativt collage av bilder, text och andra visuella element som används för att framkalla eller kommunicera en specifik stämning, stil eller koncept. De används ofta av designers, konstnärer och kreativa yrkesverksamma för att utforska idéer, dela visioner med kunder eller kollegor och som en visuell referens under ett projekt.
 
 1. **Wireframe:** Skapa en skiss (wireframe) av appens olika skärmar. Använd grundläggande former och linjer för att planera layouten och strukturen.
 
