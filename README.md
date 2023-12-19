@@ -20,7 +20,7 @@ Du kommer att designa en **Hälsotracker-app för att främja hälsosamma vanor*
 
 - **Användning av komponenter:** Se till att dra nytta av Figma-bibliotekets komponenter för att underlätta att vara konsekvent och spara tid under designprocessen.
 - **Typografi och färger:** Använd lämpliga typsnitt och färgpaletter som passar appens syfte. Fokusera på kontrast för att göra text lättläst.
-- **Animeringar och övergångar:** Utforska Figma's animeringsfunktioner för att skapa smidiga övergångar mellan skärmar och ge appen en dynamisk känsla.
+- **Animeringar och övergångar:** Utforska Figma's animeringsfunktioner för att skapa smidiga övergångar mellan skärmar.
 - **Responsiv design:** Tänk på att skapa en design som fungerar både för iPhone- och iPad-skärmar genom att använda Figma's funktioner för responsiv design: Auto-layout och Constraints.
 
 ## Inlämning
